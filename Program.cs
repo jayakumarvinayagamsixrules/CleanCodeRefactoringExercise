@@ -27,8 +27,8 @@ Order order = new Order(){
 
 
 OrderProcessor orderProcessor = new OrderProcessor();
-// Order? orderNull = null;
-// System.Console.WriteLine(orderProcessor.RefactorProcess(orderNull));
+Order? orderNull = null;
+System.Console.WriteLine(orderProcessor.RefactorProcess(orderNull));
 
 System.Console.WriteLine(orderProcessor.RefactorProcess(order));
 
