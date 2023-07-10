@@ -1,0 +1,15 @@
+D:\development\CleanCodeRefactoringExercise\bin\Debug\net7.0\CleanCodeRefactoringExercise.exe
+D:\development\CleanCodeRefactoringExercise\bin\Debug\net7.0\CleanCodeRefactoringExercise.deps.json
+D:\development\CleanCodeRefactoringExercise\bin\Debug\net7.0\CleanCodeRefactoringExercise.runtimeconfig.json
+D:\development\CleanCodeRefactoringExercise\bin\Debug\net7.0\CleanCodeRefactoringExercise.dll
+D:\development\CleanCodeRefactoringExercise\bin\Debug\net7.0\CleanCodeRefactoringExercise.pdb
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\CleanCodeRefactoringExercise.csproj.AssemblyReference.cache
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\CleanCodeRefactoringExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\CleanCodeRefactoringExercise.AssemblyInfoInputs.cache
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\CleanCodeRefactoringExercise.AssemblyInfo.cs
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\CleanCodeRefactoringExercise.csproj.CoreCompileInputs.cache
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\CleanCodeRefactoringExercise.dll
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\refint\CleanCodeRefactoringExercise.dll
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\CleanCodeRefactoringExercise.pdb
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\CleanCodeRefactoringExercise.genruntimeconfig.cache
+D:\development\CleanCodeRefactoringExercise\obj\Debug\net7.0\ref\CleanCodeRefactoringExercise.dll
